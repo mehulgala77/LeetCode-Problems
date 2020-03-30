@@ -1,4 +1,5 @@
 
+
 def isValid(s):
     stack = []
 
